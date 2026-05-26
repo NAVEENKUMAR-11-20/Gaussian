@@ -59,6 +59,7 @@ for i in range(n):
 
 ## Output:
 
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-26 at 7 58 34 PM" src="https://github.com/user-attachments/assets/8601d2d7-ab84-48b9-8dc7-50b8060f41cc" />
 
 
 
